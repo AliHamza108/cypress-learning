@@ -11,6 +11,7 @@ describe('Login functionality of ThingsHub', () => {
     
     
     myName.slice(1,5)
+    cy.console.log("Hello");
   })
 
 })
